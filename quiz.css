@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Foundations Of Data And Digital Journalism</title>
+	<style type="text/css">
+	img{
+			margin: 2px solid orangered
+		}
+	.paragraph {
+		font-family: 'Georgia', serif;
+			font-size: 16px;
+			color:  #111.;
+	}
+	.pullquote {
+		margin-left: 10px;
+		border: 2px dashed orangered;
+		text-align: center;
+		font-style: italic;
+		font-size: 20px;
+	}
+	#byline {
+		color: #282828;
+		font-style: italic;
+		text-align: center;
+	}
+</style>
+</head>
+</html>
